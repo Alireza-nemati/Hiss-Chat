@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e308ecb-68fe-44c7-8818-60b6ed8a1f26": {
+      "ProjectGuid": "1e308ecb-68fe-44c7-8818-60b6ed8a1f26",
+      "DisplayName": "Hiss!",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
